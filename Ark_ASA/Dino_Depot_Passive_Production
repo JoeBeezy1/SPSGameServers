@@ -141,7 +141,7 @@
               "bpPath": "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/Eggs/PrimalItemConsumable_Egg_Hesperonis.PrimalItemConsumable_Egg_Hesperonis",
               "maxQuantityPerCycle": 0,
               "maxQuantityInTerminal": 0,
-              "quantityPerDino": 0,
+              "quantityPerDino": 1,
               "alternateSelectMode": 0,
               "alternateItemsChance": 0.1,
               "alternateItems": [
